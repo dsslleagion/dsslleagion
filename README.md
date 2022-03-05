@@ -1,4 +1,4 @@
-### Olá! Eu sou Dionisio Samuel Dos Santos Leão 👋
+### Olá! Eu sou Dionisio 👋
 
 - 🌱 Atualmente cursando FATEC São José dos Campos - Prof. Jessen Vidal
 
