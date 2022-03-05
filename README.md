@@ -11,7 +11,8 @@
   <img align="center" alt="Rafa-java" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
  </div>
-  ##
+
+##
   
   # Tecnologias utilizadas para projetos
   
