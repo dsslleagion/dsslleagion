@@ -24,6 +24,6 @@
 
 <div> 
   
-  ![Snake animation](https://github.com/dsslleagion/dsslleagion/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Game](https://github.com/dsslleagion/dsslleagion/blob/output/github-contribution-grid-snake.svg)
  
 </div>
