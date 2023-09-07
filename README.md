@@ -29,5 +29,4 @@ Você pode me encontrar nas seguintes redes sociais e plataformas:
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou oportunidades de trabalho.
 
-Clique [aqui](https://github.com/dsslleagion/dsslleagion/actions) para ver a cobrinha do GitHub Actions.
 
