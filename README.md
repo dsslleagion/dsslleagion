@@ -1,29 +1,14 @@
 ### Olá! Eu sou Dionisio 👋
 - 🌱 Atualmente cursando FATEC São José dos Campos - Prof. Jessen Vidal
 
-<div>
-  <a href="https://github.com/dsslleagion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsslleagion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsslleagion&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- </div>
-
-# Tecnologias utilizadas para projetos
-
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
-
-<div> 
-  
-  ![Snake Game](https://github.com/dsslleagion/dsslleagion/blob/output/github-contribution-grid-snake.svg)
- 
+<div style="display: inline_block">
+  <img align="center" alt="Dionisio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dionisio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dionisio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dionisio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dionisio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dionisio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Dionisio-Node.js" height="30" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Dionisio-Linux" height="30" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg">
+  <img align="center" alt="Dionisio-React-Native" height="30" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg">
 </div>
