@@ -1,5 +1,5 @@
 ### Olá! Eu sou Dionisio 👋
-- 🌱 Atualmente cursando FATEC São José dos Campos - Prof. Jessen Vidal
+- 🌱 Atualmente formado pela FATEC São José dos Campos - Prof. Jessen Vidal - Analise e Desenvolvimento de Sistemas
 
 #### Estatísticas do GitHub
 ![Dionisio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsslleagion&show_icons=true&count_private=true&theme=dark)
